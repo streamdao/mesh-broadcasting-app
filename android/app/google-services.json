@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216238507269",
+    "firebase_url": "https://lochamesh.firebaseio.com",
+    "project_id": "lochamesh",
+    "storage_bucket": "lochamesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216238507269:android:6e8fe8421a70ec98",
+        "android_client_info": {
+          "package_name": "com.lochameshchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216238507269-16ci7jnpv990jhvodo0kllv8r55k1qdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lochameshchat",
+            "certificate_hash": "f365e434242494d0ca08a97d204550ba4ce3e5a4"
+          }
+        },
+        {
+          "client_id": "216238507269-88fk8t7tmbkjr9ts83ollp3dhlln3tod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXz2vkDYF1Wrh4SuicUAMWqyzaRDf3vuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216238507269-88fk8t7tmbkjr9ts83ollp3dhlln3tod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
